@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aashiqumar
-- 👀 I’m interested in App Devlopment for Android & iOS + Some Web Development too.
+- 👀 I’m a Full Stack Developer. I love Mobile Application Devlopment the most...
 - 🌱 I’m currently learning Flutter, Node JS
 - 💞️ I’m looking to collaborate on Flutter for some App Development Projects
 - 📫 You reach me thorugh info@aashiqumar.com, or Twitter or Instagram @aashiqumr
