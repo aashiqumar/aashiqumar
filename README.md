@@ -37,7 +37,7 @@ Good knowledge about computer software and hardware. And has a good eye for the 
 </p>
 
 
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my personal project section.
 
 <h1 align="center">Projects</h1>
 
