@@ -5,7 +5,7 @@
 A bit about Myself, I am <b>Aashiq Umar</b> pursuing my <b>Computer Science Degree</b> from Asansol Engineering College, Currently in my Final Year of Software Engineering. As of now, I am focused on <b>Mobile Apps, web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
 <h3 align="center"> Full Stack Developer | Machine Learning Enthusiast </h3>
-4
+
 
 <h1>Technical Skills 🛠</h1>
    
