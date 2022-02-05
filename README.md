@@ -69,7 +69,7 @@ Projects play a major role in showcasing your skills. They help in predicting sk
 
    <div align="center">
       
-   <h1 align="center">CodeIN Community</h1>
+   <h1 align="center">Drylast</h1>
       <img width="10%" align="center"   src="https://github.com/aashiqumar/aashiqumar/blob/main/Drylast-logo-8.JPG" >
  
 I have started a Community named Drylest Where we share App and Webiste devleopment contents and all the other development which we create.
