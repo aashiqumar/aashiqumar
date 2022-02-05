@@ -1,18 +1,15 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Aashiq Umar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science Degree</b> from Asansol Engineering College, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Aashiq Umar</b> pursuing my <b>Computer Science Degree</b> from Asansol Engineering College, Currently in my Final Year of Software Engineering. As of now, I am focused on <b>Mobile Apps, web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
-<h3 align="center"> Web And App Developer | Machine Learning Enthusiast </h3>
-
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
-   <div align="center">
+<h3 align="center"> Full Stack Developer | Machine Learning Enthusiast </h3>
+4
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest). Have explored and built projects using datasets of scikit-learn , Kaggle and keras. Tech: Data Science, Machine learning, Microsoft Azure, Deep learning, Google cloud, ReactJs, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
- Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
+Good knowledge about computer software and hardware. And has a good eye for the UI Design of the software creating. Also, I have a very good knowledge in these programming languages HTML, CSS, PHP, JS, Java and C++, Flutter (Dart), Swift UI. App development has been the most passionate thing I ever done. I have created several Apps using Firebase as the backend, and has a thorough knowledge in Firebase Authentication, Firestore, Realtime and Storage. 
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
@@ -56,25 +53,20 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [College Library Website](https://sauravmukherjee44.github.io/Aec-Library-Website/)   | This is a College Library Website in which you can keep a record of all the books you have    | issued.© 2021 Saurav Mukherjee 
-| [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
-| [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.
-| [Netflix-Clone-PC-App](https://netflix-clone-saurav.herokuapp.com/)     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
-| [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
-| [Payment Gateway Integration](https://sauravmukherjee44.github.io/Payment-Gateway-Integration/)     | Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used.
+| [My Portfolio Website](https://aashiqumar.com/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
+| [OnePlan - Prodcutivity Tool](https://github.com/aashiqumar/OnePlan)   | This is a productivity tool Android Native App    | Published.© 2021 Aashiq Umar 
+| [Haelth Snap - Pharmacy Tool](https://github.com/aashiqumar/Health-Snap)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
+| [saarcmun.org - SAARC](https://www.saarcmun.org/)     | A website build for SAARC MUN an SAARC MODEL UNITED NATIONS community.
 
  <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
 
-<a  href="https://www.youtube.com/channel/UCYGVtIgQIAChKBWBmChxzJw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a  href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/mesourav44" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a  href="https://t.me/Saurav_44"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="https://discord.com/users/758681549993541684"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-<a  href="https://www.instagram.com/mesouravofficial/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a  href="https://www.youtube.com/channel/UCllaxM77xLnh9X0496_d4RQ" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/aashiqumar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/aashiqumr" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="info@aashiqumar.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://www.instagram.com/drylast/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
 
    
@@ -85,14 +77,14 @@ I believe in implementing the knowledge which you have. Projects play a major ro
    <div align="center">
       
    <h1 align="center">CodeIN Community</h1>
-      <img width="10%" align="center"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" >
+      <img width="10%" align="center"   src="https://github.com/aashiqumar/aashiqumar/blob/main/Drylast-logo-8.JPG" >
  
-I have started a Community named CodeIN Community [Community of Coding Enthusiasts] Where we share Resources, Roadmaps to learn different technologies and share opportunities related to different tech programs. Also, We organize Events on different technologies to help people to get started with these technologies.
+I have started a Community named Drylest Where we share App and Webiste devleopment contents and all the other development which we create.
 
-  <span> <h2>Join the Community on Discord ⚡</h2>
+  <!-- <span> <h2>Join the Community on Discord ⚡</h2>
 <a  href="https://discord.gg/hWwbgP4dz9"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a  href="https://t.me/CodeINCommunity"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="https://www.linkedin.com/company/codein-community/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
+<a  href="https://www.linkedin.com/company/codein-community/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span> -->
    
  </div>
    
@@ -100,17 +92,17 @@ I have started a Community named CodeIN Community [Community of Coding Enthusias
 <table>
   <tr>
    
-<td><img src="https://github-readme-stats.vercel.app/api?username=SauravMukherjee44&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SauravMukherjee44&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=aashiqumar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aashiqumar&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Aashiq Umar" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SauravMukherjee44&theme=dark" alt="SauravMukherjee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashiqumar&theme=dark" alt="Aashiq Umar" /></p>
   </div>
 
- [![SauravMukherjee44's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SauravMukherjee44&theme=xcode)](https://git.io/SauravMukherjee44)
+ [![aashiqumar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aashiqumar&theme=xcode)](https://github.com/aashiqumar)
    
    
 
-[![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/SauravMukherjee44?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/SauravMukherjee44.svg?style=social&label=Follow)](https://github.com/aashiqumar?tab=followers)
