@@ -2,7 +2,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Aashiq Umar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-A bit about Myself, I am <b>Aashiq Umar</b> pursuing my <b>Computer Science Degree</b> from Asansol Engineering College, Currently in my Final Year of Software Engineering. As of now, I am focused on <b>Mobile Apps, web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Aashiq Umar</b> pursuing my <b>Computer Science Degree</b> at ICBT - International College of Business & Technology. Currently in my Final Year of Software Engineering. As of now, I am focused on <b>Mobile Apps, web development, Data Science and Machine Learning </b> but still, wish to explore many different fields in the industry. ⚡
 
 <h3 align="center"> Full Stack Developer | Machine Learning Enthusiast </h3>
 
@@ -72,7 +72,7 @@ Projects play a major role in showcasing your skills. They help in predicting sk
    <h1 align="center">Drylast</h1>
       <img width="10%" align="center"   src="https://github.com/aashiqumar/aashiqumar/blob/main/Drylast-logo-8.JPG" >
  
-I have started a Community named Drylest Where we share App and Webiste devleopment contents and all the other development which we create.
+I have started a Community named Drylest Where we share App and Website devleopment contents and all the other development which we create.
 
   <!-- <span> <h2>Join the Community on Discord ⚡</h2>
 <a  href="https://discord.gg/hWwbgP4dz9"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
