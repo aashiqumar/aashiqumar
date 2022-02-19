@@ -46,10 +46,11 @@ Projects play a major role in showcasing your skills. They help in predicting sk
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://aashiqumar.com/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [OnePlan - Prodcutivity Tool](https://github.com/aashiqumar/OnePlan)   | This is a productivity tool Android Native App    | Published.© 2021 Aashiq Umar 
-| [Haelth Snap - Pharmacy Tool](https://github.com/aashiqumar/Health-Snap)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
-| [saarcmun.org - SAARC](https://www.saarcmun.org/)     | A website build for SAARC MUN an SAARC MODEL UNITED NATIONS community.
+| [My Portfolio Website](https://aashiqumar.com/)     | Portfolio website build An portfolio website was created using HTML5, CSS3, JavaScript and jQuery.
+| [OnePlan - Prodcutivity Tool](https://github.com/aashiqumar/OnePlan)   | This is a productivity tool Android Native App. This one of the biggest perosnal projects I have worked on, with custom UI and backend coding. | Published.© 2021 Aashiq Umar 
+| [Health Snap - Pharmacy Tool](https://github.com/aashiqumar/Health-Snap)     | Health Snap is an Android Native App developed in order to support pahramacies in the local market. This is a very high end and product with Good UI and performance. | Published.© 2021
+| [saarcmun.org - SAARC](https://www.saarcmun.org/)     | One of the client projects I have worked on, for a SAARC Model United Nations organization. This was a landing page created for them. | Published.© 2021
+| [B-SPACE - Game](https://github.com/aashiqumar/B-Space-Game-Java-LibGDX-)     | One of the most fun projects i have worked on. This was game created for cross-platform purpose. This game will work on Android, iOS, Windows and Mac OS. This was created using HTML, JAVA and LibGDX library. I have a made vlog creating this. check it out at my YouTube channel. | Published.© 2021
 
  <h1 align="center">Let's Get Connected</h1>
 
